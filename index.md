@@ -55,7 +55,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <p><b>Tuan Nguyen</b>, Trung Le, Nhan Dam, Quan Hung Tran, Truyen Nguyen, and Dinh Phung.</p>
         <p>IJCAI, 2021.</p>
         <!--<p><a href="#">[Paper]</a><a href="#">[Slides]</a><a href="#">[Poster]</a></p>-->
-        <!--<p><a href="#">[Coming soon]</a></p>-->
+        <p><a href="#">[Coming soon]</a></p>
     </td>
   </tr>
   <tr>
