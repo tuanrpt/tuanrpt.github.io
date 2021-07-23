@@ -73,8 +73,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <p style="color:blue"><b>LAMDA: Label Matching Deep Domain Adaptation</b></p>
         <p>Trung Le, <b>Tuan Nguyen</b>, Nhat Ho, Hung Bui, and Dinh Phung.</p>
         <p>ICML, 2021.</p>
-        <!--<p><a href="#">[Paper]</a><a href="#">[Slides]</a></p>-->
-        <p><a href="#">[Coming soon]</a></p>
+        <p><a href="http://proceedings.mlr.press/v139/le21a/le21a.pdf">[Paper]</a></p>
     </td>
   </tr>
   <tr>
