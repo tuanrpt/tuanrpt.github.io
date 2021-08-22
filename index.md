@@ -44,24 +44,23 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 .tg td{border-width:0px;}
 .tg th{border-width:0px;}
 .tg .tg-0lax{text-align:left;vertical-align:top;}
-    .td-img{height:200px;width:300px;vertical-align:center;}
+.td-img{height:200px;width:300px;vertical-align:center;}
 </style>
 <table class="tg">
 <tbody>
   <tr>
     <td class="tg-0lax td-img"><img src="imgs/imitation_view.png" alt="Coming soon"></td>
     <td class="tg-0lax">
-        <p style="color:blue"><b>TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport</b></p>
+        <strong><a style="text-decoration:none; color:blue">TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport</a></strong>
         <p><b>Tuan Nguyen</b>, Trung Le, Nhan Dam, Quan Hung Tran, Truyen Nguyen, and Dinh Phung.</p>
         <p>IJCAI, 2021.</p>
-        <!--<p><a href="#">[Paper]</a><a href="#">[Slides]</a><a href="#">[Poster]</a></p>-->
-        <p><a href="#">[Coming soon]</a></p>
+        <p><a href="https://www.ijcai.org/proceedings/2021/0394.pdf">[Paper]</a><a href="src/TIDOT/IJCAI_TIDOT_poster.pdf">[Poster]</a></p>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax td-img"><img src="imgs/clustering_view.png" alt="Coming soon"></td>
     <td class="tg-0lax">
-		<p style="color:blue"><b>MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning</b></p>
+        <strong><a style="text-decoration:none; color:blue">MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning</a></strong>
 	    <p><b>Tuan Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, Truyen Nguyen, and Dinh Phung.</p>
         <p>UAI, 2021.</p>
         <p><a href="https://www.auai.org/uai2021/pdf/uai2021.106.pdf">[Paper]</a><a href="https://github.com/tuanrpt/MOST">[Code]</a><a href="src/MOST/UAI_MOST_slides.pdf">[Slides]</a><a href="src/MOST/UAI_MOST_poster.pdf">[Poster]</a></p>
@@ -70,7 +69,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   <tr>
     <td class="tg-0lax td-img"><img src="imgs/label_matching.png" alt="Coming soon"></td>
     <td class="tg-0lax">
-        <p style="color:blue"><b>LAMDA: Label Matching Deep Domain Adaptation</b></p>
+        <strong><a style="text-decoration:none; color:blue">LAMDA: Label Matching Deep Domain Adaptation</a></strong>
         <p>Trung Le, <b>Tuan Nguyen</b>, Nhat Ho, Hung Bui, and Dinh Phung.</p>
         <p>ICML, 2021.</p>
         <p><a href="http://proceedings.mlr.press/v139/le21a/le21a.pdf">[Paper]</a></p>
@@ -79,7 +78,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   <tr>
     <td class="tg-0lax td-img"><img src="imgs/stem.png" alt="Coming soon"></td>
     <td class="tg-0lax">
-        <p style="color:blue"><b>STEM: An approach to Multi-source Domain Adaptation with Guarantees</b></p>
+        <strong><a style="text-decoration:none; color:blue">STEM: An approach to Multi-source Domain Adaptation with Guarantees</a></strong>
         <p>Van-Anh Nguyen, <b>Tuan Nguyen</b>, Trung Le, Quan Hung Tran, and Dinh Phung.</p>
         <p>ICCV, 2021.</p>
         <!--<p><a href="#">[Paper]</a><a href="#">[Slides]</a><a href="#">[Poster]</a></p>-->
@@ -89,7 +88,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   <tr>
 ​   <td class="tg-0lax td-img"><img src="imgs/seqautoencoder.png" alt="Coming soon"></td>
 	<td class="tg-0lax">
-        <p style="color:blue"><b>Maximal divergence sequential autoencoder for binary software vulnerability detection</b></p>
+        <strong><a style="text-decoration:none; color:blue">Maximal divergence sequential autoencoder for binary software vulnerability detection</a></strong>
         <p>Tue Le, <b>Tuan Nguyen</b>, Trung Le, Dinh Phung, Paul Montague, Olivier De Vel and Lizhen Qu.</p>
         <p>ICLR, 2018.</p>
         <p><a href="https://openreview.net/pdf?id=ByloIiCqYQ">[Paper]</a><a href="https://github.com/dascimal-org/MDSeqVAE">[Code]</a></p>
@@ -98,7 +97,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   <tr>
 ​   <td class="tg-0lax td-img"><img src="imgs/dckm.png" alt="Coming soon"></td>
 	<td class="tg-0lax">
-        <p style="color:blue"><b>Deep cost-sensitive kernel machine for binary software vulnerability detection</b></p>
+        <strong><a style="text-decoration:none; color:blue">Deep cost-sensitive kernel machine for binary software vulnerability detection</a></strong>
         <p><b>Tuan Nguyen</b>, Trung Le, Khanh Nguyen, Olivier de Vel, Paul Montague, John Grundy, and Dinh Phung.</p>
         <p>PAKDD, 2020.</p>
         <p><a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_13">[Paper]</a><a href="https://github.com/tuanrpt/DCKM">[Code]</a><a href="src/DCKM/dckm_slides.pdf">[Slides]</a></p>
@@ -107,7 +106,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   <tr>
 ​   <td class="tg-0lax td-img"><img src="imgs/fksgd.png" alt="Coming soon"></td>
 	<td class="tg-0lax">
-        <p style="color:blue"><b>Fuzzy Kernel Stochastic Gradient Descent Machines</b></p>
+        <strong><a style="text-decoration:none; color:blue">Fuzzy Kernel Stochastic Gradient Descent Machines</a></strong>
         <p><b>Tuan Nguyen</b>, Phuong Duong, Trung Le, Anh Le, Viet Ngo, Dat Tran and Wanli Ma.</p>
         <p>IJCNN, 2016.</p>
         <p><a href="https://ieeexplore.ieee.org/document/7727611">[Paper]</a></p>
@@ -115,6 +114,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   </tr>
 </tbody>
 </table>
+
 
 
 
