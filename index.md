@@ -137,4 +137,5 @@ It is an honor for me to be involved as a reviewer at top-notch conferences, inc
 
 ## Teaching
 
-Coming soon ...
+<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning - S2 2021](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
+
