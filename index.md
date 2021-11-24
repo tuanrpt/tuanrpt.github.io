@@ -72,7 +72,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <strong><a style="text-decoration:none; color:blue">LAMDA: Label Matching Deep Domain Adaptation</a></strong>
         <p>Trung Le, <b>Tuan Nguyen</b>, Nhat Ho, Hung Bui, and Dinh Phung.</p>
         <p>ICML, 2021.</p>
-        <p><a href="http://proceedings.mlr.press/v139/le21a/le21a.pdf">[Paper]</a></p>
+        <p><a href="http://proceedings.mlr.press/v139/le21a/le21a.pdf">[Paper]</a><a href="https://github.com/tuanrpt/LAMDA">[Code]</a></p>
     </td>
   </tr>
   <tr>
@@ -81,8 +81,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <strong><a style="text-decoration:none; color:blue">STEM: An approach to Multi-source Domain Adaptation with Guarantees</a></strong>
         <p>Van-Anh Nguyen, <b>Tuan Nguyen</b>, Trung Le, Quan Hung Tran, and Dinh Phung.</p>
         <p>ICCV, 2021.</p>
-        <!--<p><a href="#">[Paper]</a><a href="#">[Slides]</a><a href="#">[Poster]</a></p>-->
-        <p><a href="#">[Coming soon]</a></p>
+        <p><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_STEM_An_Approach_to_Multi-Source_Domain_Adaptation_With_Guarantees_ICCV_2021_paper.pdf">[Paper]</a><a href="https://github.com/byM1902/STEM_iccv21_8566">[Code]</a></p>
     </td>
   </tr>
   <tr>
@@ -114,6 +113,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
   </tr>
 </tbody>
 </table>
+
 
 
 
