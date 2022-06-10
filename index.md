@@ -49,6 +49,15 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 <table class="tg">
 <tbody>
   <tr>
+    <td class="tg-0lax td-img"><img src="imgs/cook_view.png" alt="Coming soon"></td>
+    <td class="tg-0lax">
+        <strong><a style="text-decoration:none; color:blue">Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation</a></strong>
+        <p><b>Tuan Nguyen</b>, Van Nguyen, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung.</p>
+        <p>UAI, 2022.</p>
+        <!-- <p><a href="#">[Paper]</a><a href="#">[Poster]</a></p> -->
+    </td>
+  </tr>
+  <tr>
     <td class="tg-0lax td-img"><img src="imgs/imitation_view.png" alt="Coming soon"></td>
     <td class="tg-0lax">
         <strong><a style="text-decoration:none; color:blue">TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport</a></strong>
@@ -118,7 +127,10 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 
 
 
+
 ## News 
+<span style="color:blue">May 2022:</span> Our paper "Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation" has been accepted to UAI 2022.
+
 <span style="color:blue">July 2021:</span> Our paper "STEM: An approach to Multi-source Domain Adaptation with Guarantees" has been accepted to ICCV 2021.
 
 <span style="color:blue">May 2021:</span> Our paper "LAMDA: Label Matching Deep Domain Adaptation" has been accepted to ICML 2021.
@@ -137,5 +149,7 @@ It is an honor for me to be involved as a reviewer at top-notch conferences, inc
 
 ## Teaching
 
-<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning - S2 2021](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
+<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning, Summer Semester A, 2021](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
+
+<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning, Semester 2, 2021](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
 
