@@ -54,7 +54,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <strong><a style="text-decoration:none; color:blue">Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation</a></strong>
         <p><b>Tuan Nguyen</b>, Van Nguyen, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung.</p>
         <p>UAI, 2022.</p>
-        <!-- <p><a href="#">[Paper]</a><a href="#">[Poster]</a></p> -->
+        <p><a href="https://openreview.net/pdf?id=ScUndLLjceq">[Paper]</a></p>
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <strong><a style="text-decoration:none; color:blue">TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport</a></strong>
         <p><b>Tuan Nguyen</b>, Trung Le, Nhan Dam, Quan Hung Tran, Truyen Nguyen, and Dinh Phung.</p>
         <p>IJCAI, 2021.</p>
-        <p><a href="https://www.ijcai.org/proceedings/2021/0394.pdf">[Paper]</a><a href="src/TIDOT/IJCAI_TIDOT_poster.pdf">[Poster]</a></p>
+        <p><a href="https://www.ijcai.org/proceedings/2021/0394.pdf">[Paper]</a></p>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
         <strong><a style="text-decoration:none; color:blue">MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning</a></strong>
 	    <p><b>Tuan Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, Truyen Nguyen, and Dinh Phung.</p>
         <p>UAI, 2021.</p>
-        <p><a href="https://www.auai.org/uai2021/pdf/uai2021.106.pdf">[Paper]</a><a href="https://github.com/tuanrpt/MOST">[Code]</a><a href="src/MOST/UAI_MOST_slides.pdf">[Slides]</a><a href="src/MOST/UAI_MOST_poster.pdf">[Poster]</a></p>
+        <p><a href="https://proceedings.mlr.press/v161/nguyen21a/nguyen21a.pdf">[Paper]</a><a href="https://github.com/tuanrpt/MOST">[Code]</a><a href="src/MOST/UAI_MOST_slides.pdf">[Slides]</a></p>
 	</td>
   </tr>
   <tr>
@@ -128,6 +128,7 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 
 
 
+
 ## News 
 <span style="color:blue">May 2022:</span> Our paper "Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation" has been accepted to UAI 2022.
 
@@ -145,11 +146,15 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 
 ## Professional Services
 
-It is an honor for me to be involved as a reviewer at top-notch conferences, including AAAI 2020, AISTATS 2020, CVPR 2021, and ICCV 2021.
+It is an honor for me to be involved as a reviewer at top-notch conferences including AAAI, AISTATS, ICCV, CVPR, ICML and NeurIPS.
 
 ## Teaching
 
-<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning, Summer Semester A, 2021](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
+<span style="color:blue">2022:</span> Teaching Associate - Head Tutor, [FIT5215 Deep learning, Semester 2](https://handbook.monash.edu/2022/units/FIT5215), Monash University.
 
-<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning, Semester 2, 2021](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
+<span style="color:blue">2022:</span> Teaching Associate, [FIT3181 Deep learning, Semester 2](https://handbook.monash.edu/2022/units/FIT3181), Monash University.
+
+<span style="color:blue">2021:</span> Teaching Associate - Head Tutor, [FIT5215 Deep learning, Summer Semester A](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
+
+<span style="color:blue">2021:</span> Teaching Associate, [FIT5215 Deep learning, Semester 2](https://handbook.monash.edu/2021/units/FIT5215), Monash University.
 
