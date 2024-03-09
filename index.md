@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="imgs/tuan_profile.jpg">
 
-Hi, I'm Tuan Nguyen, and I've earned a PhD in machine learning, deep learning, and computer vision. My doctoral studies were completed at Monash University, under the expert guidance of [Prof. Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), [Dr. Trung Le](https://research.monash.edu/en/persons/trung-le), and [Dr. He Zhao](https://research.monash.edu/en/persons/ethan-zhao).
+Hi, I'm Tuan Nguyen, and I have earned a PhD in machine learning, deep learning, and computer vision. My doctoral studies were completed at Monash University, under the expert guidance of [Prof. Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), [Dr. Trung Le](https://research.monash.edu/en/persons/trung-le), and [Dr. He Zhao](https://research.monash.edu/en/persons/ethan-zhao).
 
 
 ## Research Interest
