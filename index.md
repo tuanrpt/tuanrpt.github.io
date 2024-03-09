@@ -6,32 +6,33 @@ layout: default
 
 <img class="profile-picture" src="imgs/tuan_profile.jpg">
 
-Hi, I’m Tuan Nguyen, a Ph.D. student at Monash University, supervised by [Prof. Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), [Dr. Trung Le](https://research.monash.edu/en/persons/trung-le), and  [Dr. He Zhao](https://research.monash.edu/en/persons/ethan-zhao).
+Hi, I'm Tuan Nguyen, and I've earned a PhD in machine learning, deep learning, and computer vision. My doctoral studies were completed at Monash University, under the expert guidance of [Prof. Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), [Dr. Trung Le](https://research.monash.edu/en/persons/trung-le), and [Dr. He Zhao](https://research.monash.edu/en/persons/ethan-zhao).
 
-I graduated from Ho Chi Minh City University of Education (Vietnam), with a bachelor’s degree in computer science (GPA 3.73/4.0).
 
 ## Research Interest
 
-My research interest covers machine learning and deep learning with a current focus on:
-- domain adaptation,
-- transfer learning and learning with limited labels,
-- kernel methods,
-- and optimal transport.
+My academic pursuits encompass the fields of machine learning and deep learning, with a keen emphasis on:
 
-My Ph.D. project aims to leverage the richness and rigorousness of optimal transport theory to solving the problem of learning with limited labels. This is an important, crucial, and challenging problem which allows us to train models using data with limited labels. My research goal is to conduct research that incorporates advancing theoretical foundations in deep learning and applies them to practical problems in society.
+- Domain Adaptation,
+- Generative Artificial Intelligence,
+- Transfer Learning and Learning with Limited Labels,
+- Kernel Methods,
+- Optimal Transport techniques.
 
-My favorite inspiring quote:
+The core objective of my PhD project is to harness the comprehensive and methodical framework provided by optimal transport theory to address the challenge of learning in environments with limited labels. This represents a significant, pivotal, and intricate issue that facilitates the training of models with minimally labeled data. My ambition is to merge the advancement of theoretical principles within deep learning with their application to real-world societal issues.
+
+A quote that continually inspires me:
 
 <center><i>"It Always Seems Impossible Until It Is Done."</i> - Nelson Mandela</center>
 
 ## Hobbies
 
-I’m really into playing sports such as badminton, soccer, and table tennis. Playing guitar and reading book are also my cup of tea. 
+I have a strong passion for sports, including badminton, soccer, and table tennis. Additionally, playing the guitar and indulging in books are among my favored pastimes.
 
 
 ## Contact
 
-I’m eager to have interesting conversations and collaboration with you. I can be reached via: 
+I look forward to engaging in stimulating discussions and potential collaborations with you. Please feel free to contact me through:
 
 - [Email](mailto:[name]@monash.edu where [name]=tuan.ng)
 - [Linkedin](https://www.linkedin.com/in/tuanrpt)
@@ -125,11 +126,11 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 
 
 
-
-
-
-
 ## News 
+<span style="color:blue">January 2024:</span> I have received my conferral letter and completed my PhD program.
+
+<span style="color:blue">August 2023:</span> I am thrilled to have received a Research Assistant position at Monash University.
+
 <span style="color:blue">May 2022:</span> Our paper "Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation" has been accepted to UAI 2022.
 
 <span style="color:blue">July 2021:</span> Our paper "STEM: An approach to Multi-source Domain Adaptation with Guarantees" has been accepted to ICCV 2021.
@@ -140,15 +141,17 @@ I’m eager to have interesting conversations and collaboration with you. I can 
 
 <span style="color:blue">April 2021:</span> Our paper "TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport" has been accepted to IJCAI 2021.
 
-<span style="color:blue">March 2021:</span> I have upgraded to Ph.D. degree thanks to my good research progress.
+<span style="color:blue">March 2021:</span> I have advanced to a Ph.D. degree due to my notable research achievements.
 
-<span style="color:blue">March 2020:</span> I started my Master's degree at Monash University, Australia, under the supervision of Prof. Dinh Phung, Dr. Trung Le, and Dr. He Zhao.
+<span style="color:blue">March 2020:</span> I commenced my Master's degree at Monash University, Australia, under the supervision of Prof. Dinh Phung, Dr. Trung Le, and Dr. He Zhao.
 
 ## Professional Services
 
-It is an honor for me to be involved as a reviewer at top-notch conferences including AAAI, AISTATS, ICCV, CVPR, ICML and NeurIPS.
+I am honored to serve as a reviewer for prestigious conferences such as AAAI, AISTATS, ICCV, CVPR, ICML, and NeurIPS.
+
 
 ## Teaching
+<span style="color:blue">2023:</span> Teaching Associate - Head Tutor, [FIT5215 Deep learning, Semester 2](https://handbook.monash.edu/2023/units/FIT5215), Monash University.
 
 <span style="color:blue">2022:</span> Teaching Associate - Head Tutor, [FIT5215 Deep learning, Semester 2](https://handbook.monash.edu/2022/units/FIT5215), Monash University.
 
