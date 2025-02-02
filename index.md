@@ -2,43 +2,27 @@
 layout: default
 ---
 
-## About Me
-
-<img class="profile-picture" src="imgs/tuan_profile.jpg">
-
-Hi, I'm Tuan Nguyen, and I have earned a PhD in machine learning, deep learning, and computer vision. My doctoral studies were completed at Monash University, under the expert guidance of [Prof. Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), [Dr. Trung Le](https://research.monash.edu/en/persons/trung-le), and [Dr. He Zhao](https://hezgit.github.io/).
-
-
 ## Research Interest
 
-My academic pursuits encompass the fields of machine learning and deep learning, with a keen emphasis on:
+<img class="profile-picture" src="imgs/tuan_profile.png">
 
-- Domain Adaptation,
-- Generative Artificial Intelligence,
-- Transfer Learning and Learning with Limited Labels,
-- Kernel Methods,
-- Optimal Transport techniques.
-
-The core objective of my PhD project is to harness the comprehensive and methodical framework provided by optimal transport theory to address the challenge of learning in environments with limited labels. This represents a significant, pivotal, and intricate issue that facilitates the training of models with minimally labeled data. My ambition is to merge the advancement of theoretical principles within deep learning with their application to real-world societal issues.
-
-A quote that continually inspires me:
+I am an AI researcher with 8+ years of experience in Deep Learning, Machine Learning, Computer Vision, and NLP. My research, presented at leading AI conferences such as ICML, ICCV, ICLR, UAI, and IJCAI, covers a broad range of topics, including deepfake detection, multi-modal learning, generative AI, LLM safety, domain adaptation, and transfer learning. I have 3+ years of experience mentoring 200+ students at Monash University and organizing Kaggle competitions to foster student engagement.
 
 <center><i>"It Always Seems Impossible Until It Is Done."</i> - Nelson Mandela</center>
 
 ## Hobbies
 
-I have a strong passion for sports, including badminton, soccer, and table tennis. Additionally, playing the guitar and indulging in books are among my favored pastimes.
-
+I am passionate about sports, particularly badminton, soccer, and table tennis. I also enjoy playing the guitar and continually expanding my knowledge through new courses.
 
 ## Contact
 
 I look forward to engaging in stimulating discussions and potential collaborations with you. Please feel free to contact me through:
 
-- [Email](mailto:[name]@monash.edu where [name]=tuan.ng)
+- [Email](mailto:[name]@hbku.edu.qa where [name]=ntuan)
 - [Linkedin](https://www.linkedin.com/in/tuanrpt)
 - [Twitter](https://twitter.com/tuanrpt)
 
-## Publications
+## Selected Publications
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
@@ -127,6 +111,8 @@ I look forward to engaging in stimulating discussions and potential collaboratio
 
 
 ## News 
+<span style="color:blue">September 2024:</span> I have started a new postdoctoral position at the Qatar Computing Research Institute in Doha, Qatar.
+
 <span style="color:blue">January 2024:</span> I have received my conferral letter and completed my PhD program.
 
 <span style="color:blue">August 2023:</span> I am thrilled to have received a Research Assistant position at Monash University.

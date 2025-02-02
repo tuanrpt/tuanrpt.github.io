@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [tuan [dot] ng [at] monash [dot] edu](mailto:foo@xyz.com)
+* Email: [ntuan [at] hbku [dot] edu [dot] qa](mailto:ntuan@hbku.edu.qa)
 
 <!--* Phone: [+91-123123](tel:+91-123123) -->
 
