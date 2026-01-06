@@ -1,0 +1,46 @@
+# Basic Information
+title: Tuan Nguyen
+position: Postdoctoral Researcher
+affiliation: Qatar Computing Research Institute
+affiliation_short: QCRI
+affiliation_link: https://cs.qcri.org/
+affiliation_logo: ./assets/img/qcri-logo.png
+#email:
+
+# Search Engine Optimization (SEO)
+keywords: tuan nguyen, nguyen tuan, tuanrpt, deep learning, machine learning, domain adaptation
+canonical: https://tuanrpt.github.io
+description: Tuan Nguyen is a Postdoctoral Researcher at Qatar Computing Research Institute. His research lies in deep learning, machine learning, computer vision, and domain adaptation.
+
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?hl=en&user=DPsUJFgAAAAJ&view_op=list_works
+github_link: https://github.com/tuanrpt
+#linkedin: https://www.linkedin.com/in/tuanrpt
+#twitter: https://twitter.com/tuanrpt
+
+# Images
+avatar: assets/img/tuan_profile.png
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project.
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+
+# Flag Counter
+flagcounter_id: 36Ql
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

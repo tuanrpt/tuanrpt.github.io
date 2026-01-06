@@ -1,0 +1,79 @@
+main:
+
+  - title: "PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection"
+    authors: "<strong>Tuan Nguyen</strong>, Naseem Khan, Khang Tran, Hai Phan, Issa Khalil"
+    conference_short: Preprint
+    conference: Preprint
+    pdf: https://openreview.net/pdf?id=PBIHh6ibal
+    code: https://github.com/tuanrpt/PRPO
+    # bibtex: https://dblp.org/rec/journals/corr/abs-2509-26272.html?view=bibtex
+    image: ../assets/img/prpo.png
+
+  - title: "Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation"
+    authors: "<strong>Tuan Nguyen</strong>, Van Nguyen, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung"
+    conference_short: UAI
+    conference: Conference on Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2022.
+    pdf: https://openreview.net/pdf?id=ScUndLLjceq
+    bibtex: https://dblp.org/rec/conf/uai/0004NL0TP22.html?view=bibtex
+    image: ../assets/img/cook_view.png
+
+  - title: "TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport"
+    authors: "<strong>Tuan Nguyen</strong>, Trung Le, Nhan Dam, Quan Hung Tran, Truyen Nguyen, and Dinh Phung"
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2021.
+    pdf: https://www.ijcai.org/proceedings/2021/0394.pdf
+    bibtex: https://dblp.org/rec/conf/ijcai/NguyenLDTNP21.html?view=bibtex
+    image: ../assets/img/imitation_view.png
+
+  - title: "MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning"
+    authors: "<strong>Tuan Nguyen</strong>, Trung Le, He Zhao, Quan Hung Tran, Truyen Nguyen, and Dinh Phung"
+    conference_short: UAI
+    conference: Conference on Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2021.
+    pdf: https://proceedings.mlr.press/v161/nguyen21a/nguyen21a.pdf
+    code: https://github.com/tuanrpt/MOST
+    bibtex: https://dblp.org/rec/conf/uai/NguyenL0TNP21.html?view=bibtex
+    image: ../assets/img/clustering_view.png
+
+  - title: "LAMDA: Label Matching Deep Domain Adaptation"
+    authors: "Trung Le, <strong>Tuan Nguyen</strong>, Nhat Ho, Hung Bui, and Dinh Phung"
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2021.
+    pdf: http://proceedings.mlr.press/v139/le21a/le21a.pdf
+    code: https://github.com/tuanrpt/LAMDA
+    bibtex: https://dblp.org/rec/conf/icml/LeNHB021.html?view=bibtex
+    image: ../assets/img/label_matching.png
+
+  - title: "STEM: An approach to Multi-source Domain Adaptation with Guarantees"
+    authors: "Van-Anh Nguyen, <strong>Tuan Nguyen</strong>, Trung Le, Quan Hung Tran, and Dinh Phung"
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
+    pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_STEM_An_Approach_to_Multi-Source_Domain_Adaptation_With_Guarantees_ICCV_2021_paper.pdf
+    code: https://github.com/anh-ntv/STEM_iccv21.git
+    bibtex: https://dblp.org/rec/conf/iccv/Nguyen0LT021.html?view=bibtex
+    image: ../assets/img/stem.png
+
+  - title: "Maximal divergence sequential autoencoder for binary software vulnerability detection"
+    authors: "Tue Le, <strong>Tuan Nguyen</strong>, Trung Le, Dinh Phung, Paul Montague, Olivier De Vel, and Lizhen Qu"
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2019.
+    pdf: https://openreview.net/pdf?id=ByloIiCqYQ
+    code: https://github.com/dascimal-org/MDSeqVAE
+    bibtex: https://dblp.org/rec/conf/iclr/LeNLPMVQ19.html?view=bibtex
+    image: ../assets/img/seqautoencoder.png
+
+  - title: "Deep cost-sensitive kernel machine for binary software vulnerability detection"
+    authors: "<strong>Tuan Nguyen</strong>, Trung Le, Khanh Nguyen, Olivier de Vel, Paul Montague, John Grundy, and Dinh Phung"
+    conference_short: PAKDD
+    conference: Pacific-Asia Conference on Knowledge Discovery and Data Mining <strong>(PAKDD)</strong>, 2020.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-47436-2_13
+    code: https://github.com/tuanrpt/DCKM
+    bibtex: https://dblp.org/rec/conf/pakdd/NguyenLNVMGP20.html?view=bibtex
+    image: ../assets/img/dckm.png
+
+  - title: "Fuzzy Kernel Stochastic Gradient Descent Machines"
+    authors: "<strong>Tuan Nguyen</strong>, Phuong Duong, Trung Le, Anh Le, Viet Ngo, Dat Tran, and Wanli Ma"
+    conference_short: IJCNN
+    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2016.
+    pdf: https://ieeexplore.ieee.org/document/7727611
+    bibtex: https://dblp.org/rec/conf/ijcnn/NguyenDLLNTM16.html?view=bibtex
+    image: ../assets/img/fksgd.png
