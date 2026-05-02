@@ -2,8 +2,8 @@ main:
 
   - title: "PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection"
     authors: "<strong>Tuan Nguyen</strong>, Naseem Khan, Khang Tran, Hai Phan, Issa Khalil"
-    conference_short: Preprint
-    conference: Preprint
+    conference_short: ICML
+    conference: The 43rd International Conference on Machine Learning
     pdf: https://openreview.net/pdf?id=PBIHh6ibal
     code: https://github.com/tuanrpt/PRPO
     # bibtex: https://dblp.org/rec/journals/corr/abs-2509-26272.html?view=bibtex

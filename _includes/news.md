@@ -2,6 +2,11 @@
 
 <ul>
   <li>
+    <strong>[May 2026]</strong>
+    Paper accepted to <a href="https://icml.cc/Conferences/2026">ICML 2026</a>:
+    <em>PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection</em>.
+  </li>
+  <li>
     <strong>[Dec. 2025]</strong>
     Paper accepted to <a href="https://mmasia2025.org/">ACM Multimedia Asia 2025</a> and awarded the
     <strong>Best Multimodal Award</strong>:
